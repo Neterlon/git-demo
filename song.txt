@@ -1,10 +1,1 @@
-first line of the song
-second line of the song
-
-third line of the song
-
-SUPER FEATURE 
-Feature #2
-
-
-NOW NEW FEATURE
+empty file
